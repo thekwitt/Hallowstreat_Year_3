@@ -1,0 +1,14 @@
+{
+    "intro": [
+        "**\"The fire spreads, spirit awakens.\"**\n**\"My time has come, the ashes of forsaken.\"**",
+        "**\"Prepare yourselfs for the curse lies.\"**\n**\"The end of your fest is soon to rise!\"**"
+    ],
+    "battle1":["**\"The Wind trails behind you!\"**\n**\"All those who chase catch the flu.\"**","**\"Wish for all you believe.\"**\n**\"The prayers only cause those to leave.\"**"],
+    "phase2":["**\"How dare you take the life of a proud steed\"**\n**\"Back down now, the reckoning will feed!\"**","**\"Each of you will pay the final price\"**\n**\"With your head by my slice\"**"],
+    "battle2":["**\"The blade sings towards your heart.\"**\n**\"Spilling blood in ancient art.\"**","**\"Crossing arms of doomed essence.\"**\n**\"Your cries give it balance!\"**"],
+    "phase3":["**\"Your thoughts betray, that you have won?\"**\n**\"Think again cowards, for it is not yet done\"**","**\"Flames spread around your souls\"**\n**\"Your bodies soon to take the tolls\"**"],
+    "battle3":["**\"The fire grows in tales untold.\"**\n**\"No one ever to be so cold.\"**","**\"Catch catch catch, where can you find one's head?\"**\n**\"It'll only leave a trail of the bled.\"**"],
+    "loss": ["**\"By forsaken curse you have fallen\"**\n**\"Hand of fate made your blood pollen\"**","**\"The candy is mine as is your power\"**\n**\"Pray lucky next time, in the final hour\"**"],
+    "idle":"**\"Time has passed oh so well\"**\n**\"Now to bid farewell\"**",
+    "death":["**\"To been bested by such creatures\"**\n**\"By the ugliest so called features\"**","**\"This won't be the last that you will see\"**\n**\"The headless horseman can guarantee\"**"]
+}

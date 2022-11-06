@@ -1,0 +1,1630 @@
+{
+	"candy": [{
+		"id": "001",
+		"name": "Tombstone Sucker",
+		"type": "Suckers",
+		"emoji": "<:001_tombstonesucker:893337458966675516>",
+		"description": "As [name] takes a lick, they feel their skin melt to the ground in a sweet flavorful way.",
+		"bonus": 2,
+		"emoji_id": "893337458966675516"
+	}, {
+		"id": "002",
+		"name": "Pumpkin Fair Sucker",
+		"type": "Suckers",
+		"emoji": "<:002_pumpkinfairsucker:893337458933125190>",
+		"description": "As [name] takes a lick, they feel the excitement and a hint of squash roll off their tongue.",
+		"bonus": 4,
+		"emoji_id": "893337458933125190"
+	}, {
+		"id": "003",
+		"name": "Cob Web Sucker",
+		"type": "Suckers",
+		"emoji": "<:003_cobwebsucker:893337459188973578>",
+		"description": "As [name] takes a lick, their lips feel sticky and silky.",
+		"bonus": 1,
+		"emoji_id": "893337459188973578"
+	}, {
+		"id": "004",
+		"name": "Hat Trick Sucker",
+		"type": "Suckers",
+		"emoji": "<:004_hattricksucker:893337458928943125>",
+		"description": "As [name] takes a lick, the magic in the air surronds their body, making them feel powerful.",
+		"bonus": 5,
+		"emoji_id": "893337458928943125"
+	}, {
+		"id": "005",
+		"name": "Wormhole Sucker",
+		"type": "Suckers",
+		"emoji": "<:005_wormholesucker:893337459033788506>",
+		"description": "As [name] takes a lick, their body feels lost and disconnected from the world.",
+		"bonus": 3,
+		"emoji_id": "893337459033788506"
+	}, {
+		"id": "006",
+		"name": "Cornhole Sucker",
+		"type": "Suckers",
+		"emoji": "<:006_cornholesucker:893337458819891221>",
+		"description": "As [name] takes a lick, they feel like the embodiment of corn.",
+		"bonus": 0,
+		"emoji_id": "893337458819891221"
+	}, {
+		"id": "007",
+		"name": "Ghostly Sucker",
+		"type": "Suckers",
+		"emoji": "<:007_ghostlysucker:893337459054759966>",
+		"description": "As [name] takes a lick, they feel invisible and very very spooky.",
+		"bonus": 2,
+		"emoji_id": "893337459054759966"
+	}, {
+		"id": "008",
+		"name": "Hallowful Sucker",
+		"type": "Suckers",
+		"emoji": "<:008_hallowfulsucker:893337459142828082>",
+		"description": "As [name] takes a lick, the spirit of Hallow rushes into their body, making them feel one with candy.",
+		"bonus": 0,
+		"emoji_id": "893337459142828082"
+	}, {
+		"id": "009",
+		"name": "Skullcore Sucker",
+		"type": "Suckers",
+		"emoji": "<:009_skullcoresucker:893337459247697920>",
+		"description": "As [name] takes a lick, their bones start to dance to festival music in the distance.",
+		"bonus": 3,
+		"emoji_id": "893337459247697920"
+	}, {
+		"id": "010",
+		"name": "Eye Sight Sucker",
+		"type": "Suckers",
+		"emoji": "<:010_eyesightsucker:893337459184762910>",
+		"description": "As [name] takes a lick, their eyes start to feel drained but also powerful.",
+		"bonus": 1,
+		"emoji_id": "893337459184762910"
+	}, {
+		"id": "011",
+		"name": "Blood Drop Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:011_blooddropswirlpop:889930384844922910>",
+		"description": "As [name] takes a lick, the blood into their veins",
+		"bonus": 2,
+		"emoji_id": "889930384844922910"
+	}, {
+		"id": "012",
+		"name": "Candy Corn Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:012_candycornswirlpop:889930385109164073>",
+		"description": "As [name] takes a lick, they feel fluffy and hard as the same time.",
+		"bonus": 3,
+		"emoji_id": "889930385109164073"
+	}, {
+		"id": "013",
+		"name": "Cloudy Dream Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:013_cloudydreamswirlpop:889930384689754183>",
+		"description": "As [name] takes a lick, the feeling of clouds brush through their skin.",
+		"bonus": 0,
+		"emoji_id": "889930384689754183"
+	}, {
+		"id": "014",
+		"name": "Gum Drop Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:014_gumdropswirlpop:889930385004310558>",
+		"description": "As [name] takes a lick, they feel a sugar rush and now feel unusually hyper.",
+		"bonus": 5,
+		"emoji_id": "889930385004310558"
+	}, {
+		"id": "015",
+		"name": "Hallows Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:015_hallowsswirlpop:889930384958177301>",
+		"description": "As [name] takes a lick, the spirit of Hallow rushes into their body, making them feel one with candy.",
+		"bonus": 1,
+		"emoji_id": "889930384958177301"
+	}, {
+		"id": "016",
+		"name": "Peppermint Surprise Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:016_peppermintsurpriseswirlpop:889930384991723570>",
+		"description": "As [name] takes a lick, all of a sudden, they feel a freshness of air unlike anything they've ever experience before.",
+		"bonus": 1,
+		"emoji_id": "889930384991723570"
+	}, {
+		"id": "017",
+		"name": "Calm Nature Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:017_calmnatureswirlpop:889930385159503942>",
+		"description": "As [name] takes a lick, the grass starts to grow underneath their feet. The sounds of waterfuls and distance creatures fill the land that they stand on.",
+		"bonus": 0,
+		"emoji_id": "889930385159503942"
+	}, {
+		"id": "018",
+		"name": "Nightmare Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:018_nightmareswirlpop:889930384886878238>",
+		"description": "As [name] takes a lick, the sky turns black and they see their worst fear infront of them. Although, this may sound terrifying, atleast the taste isn't that all bitter.",
+		"bonus": 2,
+		"emoji_id": "889930384886878238"
+	}, {
+		"id": "019",
+		"name": "Skull Crusher Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:019_skullcrusherswirlpop:889930385440534548>",
+		"description": "As [name] takes a lick, they feel their head being compressed by an unknown force. For some reason, it feels sour.",
+		"bonus": 4,
+		"emoji_id": "889930385440534548"
+	}, {
+		"id": "020",
+		"name": "Rainbow Swirl Pop",
+		"type": "Swirls",
+		"emoji": "<:020_rainbowswirlpop:889931351988518942>",
+		"description": "As [name] takes a lick, they see a double rainbow in the sky and run towards. Some will never know if they return.",
+		"bonus": 3,
+		"emoji_id": "889931351988518942"
+	}, {
+		"id": "021",
+		"name": "Spring Waterfall Wrap",
+		"type": "Wraps",
+		"emoji": "<:021_springwaterfallwrap:896490497848274995>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, they feel their mouth overflow with water. The smell of spring is fumed within the water.",
+		"bonus": 0,
+		"emoji_id": "896490497848274995"
+	}, {
+		"id": "022",
+		"name": "Sunny Sideup Wrap",
+		"type": "Wraps",
+		"emoji": "<:022_sunnysideupwrap:896490498573885481>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, the sun shines brighter than usual, making their skin dry up to a crisp.",
+		"bonus": 1,
+		"emoji_id": "896490498573885481"
+	}, {
+		"id": "023",
+		"name": "Crystal Sparkle Wrap",
+		"type": "Wraps",
+		"emoji": "<:023_crystalsparklewrap:896490498586468452>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, the sky shines brighter and the oxygen becomes parent to the eye. You now understand atoms and molecules.",
+		"bonus": 3,
+		"emoji_id": "896490498586468452"
+	}, {
+		"id": "024",
+		"name": "Spinal Cord Wrap",
+		"type": "Wraps",
+		"emoji": "<:024_spinalcordwrap:896490498762608681>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, their back tingles and starts to shift in places they didn't think it could.",
+		"bonus": 1,
+		"emoji_id": "896490498762608681"
+	}, {
+		"id": "025",
+		"name": "Blood Clout Wrap",
+		"type": "Wraps",
+		"emoji": "<:025_bloodcloutwrap:896490498791968868>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, they can feel their blood stop flowing and stay in place. The world is spinning faster and faster.",
+		"bonus": 5,
+		"emoji_id": "896490498791968868"
+	}, {
+		"id": "026",
+		"name": "Zombie Skin Wrap",
+		"type": "Wraps",
+		"emoji": "<:026_zombieskinwrap:896490498993307688>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, their skin starts to tear into pieces as their foreskin turns green and brown all over.",
+		"bonus": 4,
+		"emoji_id": "896490498993307688"
+	}, {
+		"id": "027",
+		"name": "Headless Horseman Wrap",
+		"type": "Wraps",
+		"emoji": "<:027_headlesshorsemanwrap:896490499194634260>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, their suddenly pops off their body and falls on the ground. Their work is never done.",
+		"bonus": 2,
+		"emoji_id": "896490499194634260"
+	}, {
+		"id": "028",
+		"name": "Curse of the Living Wrap",
+		"type": "Wraps",
+		"emoji": "<:028_curseofthelivingwrap:896490499240755260>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, they feel their well-being extend past the point of living. What they have experienced can never be expressed.",
+		"bonus": 2,
+		"emoji_id": "896490499240755260"
+	}, {
+		"id": "029",
+		"name": "Prime Essence Wrap",
+		"type": "Wraps",
+		"emoji": "<:029_primeessencewrap:896490499215618048>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, their souls feel enlightened and stronger. The enchantment of flavor fills their entire body.",
+		"bonus": 3,
+		"emoji_id": "896490499215618048"
+	}, {
+		"id": "030",
+		"name": "Werewolf Fur Wrap",
+		"type": "Wraps",
+		"emoji": "<:030_werewolffurwrap:896490499777658881>",
+		"description": "As [name] unwraps the wrapper and tosses the candy into their mouth, the hair on their skin suddenly grows thicker and longer, making them a pure werewolf.",
+		"bonus": 0,
+		"emoji_id": "896490499777658881"
+	}, {
+		"id": "031",
+		"name": "Dull Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:031_dulljawbreaker:896610184170962954>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth... nothing happens, its just dull and plain.",
+		"bonus": 3,
+		"emoji_id": "896610184170962954"
+	}, {
+		"id": "032",
+		"name": "Orange Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:032_orangejawbreaker:896610183982247977>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, citrus feels their entire body, one with the orange.",
+		"bonus": 0,
+		"emoji_id": "896610183982247977"
+	}, {
+		"id": "033",
+		"name": "Lime Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:033_limejawbreaker:896610183948673095>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, their whole jaw is filled with acids and a tarty after taste.",
+		"bonus": 1,
+		"emoji_id": "896610183948673095"
+	}, {
+		"id": "034",
+		"name": "Strawberry Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:034_strawberryjawbreaker:896610183852195892>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, the jawbreaker explodes into strawberrys, overwhelming their mouth with flavor.",
+		"bonus": 2,
+		"emoji_id": "896610183852195892"
+	}, {
+		"id": "035",
+		"name": "Grape Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:035_grapejawbreaker:896610184355512340>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, their teeth turn into little grapes that are crushed within minutes.",
+		"bonus": 0,
+		"emoji_id": "896610184355512340"
+	}, {
+		"id": "036",
+		"name": "Violet Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:036_violetjawbreaker:896610184342929419>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, the night sky fills their mouth as people see stars inside.",
+		"bonus": 4,
+		"emoji_id": "896610184342929419"
+	}, {
+		"id": "037",
+		"name": "Blueberry Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:037_blueberryjawbreaker:896610184506531861>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, their tongues become flushed with blueberries. Literally the ocean swims on their tastebuds.",
+		"bonus": 3,
+		"emoji_id": "896610184506531861"
+	}, {
+		"id": "038",
+		"name": "Cherry Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:038_cherryjawbreaker:896610184712036462>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, their tongues become flushed with cherries. Literally the ocean swims on their tastebuds.",
+		"bonus": 2,
+		"emoji_id": "896610184712036462"
+	}, {
+		"id": "039",
+		"name": "Grass Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:039_grassjawbreaker:896610184456208384>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, they feel themselves become one with farm animals. They also love the taste of grass.",
+		"bonus": 1,
+		"emoji_id": "896610184456208384"
+	}, {
+		"id": "040",
+		"name": "Vanilla Jawbreaker",
+		"type": "Jawbreakers",
+		"emoji": "<:040_vanillajawbreaker:896610184510722108>",
+		"description": "As [name] chucks the whole jawbreaker into their mouth, the sweetness of vanilla consumes their entire mouth.",
+		"bonus": 5,
+		"emoji_id": "896610184510722108"
+	}, {
+		"id": "041",
+		"name": "Blood Cell Gum",
+		"type": "Gums",
+		"emoji": "<:041_bloodcellgum:896610161215549501>",
+		"description": "As [name] chucks the piece of gum in their mouth, the understand why vampires live off blood. The richness of tender flavor speaks too many words.",
+		"bonus": 3,
+		"emoji_id": "896610161215549501"
+	}, {
+		"id": "042",
+		"name": "Ribcage Gum",
+		"type": "Gums",
+		"emoji": "<:042_ribcagegum:896610161349771324>",
+		"description": "As [name] chucks the piece of gum in their mouth, each chew tickles their ribcages as it plays a song for people to hear.",
+		"bonus": 4,
+		"emoji_id": "896610161349771324"
+	}, {
+		"id": "043",
+		"name": "Spellcraft Gum",
+		"type": "Gums",
+		"emoji": "<:043_spellcraftgum:896610161358168104>",
+		"description": "As [name] chucks the piece of gum in their mouth, they start to fly. Soaring through the thundering sky.",
+		"bonus": 5,
+		"emoji_id": "896610161358168104"
+	}, {
+		"id": "044",
+		"name": "Blob Glob Gum",
+		"type": "Gums",
+		"emoji": "<:044_blobglobgum:896610161265893408>",
+		"description": "As [name] chucks the piece of gum in their mouth, they realize its really hard to chew so instead they just suck in the flavors.",
+		"bonus": 0,
+		"emoji_id": "896610161265893408"
+	}, {
+		"id": "045",
+		"name": "Sunlight Gum",
+		"type": "Gums",
+		"emoji": "<:045_sunlightgum:896610161639190558>",
+		"description": "As [name] chucks the piece of gum in their mouth, light shines bright off of them. Making them practically the sun!",
+		"bonus": 3,
+		"emoji_id": "896610161639190558"
+	}, {
+		"id": "046",
+		"name": "Spirit Gum",
+		"type": "Gums",
+		"emoji": "<:046_spiritgum:896610161655943228>",
+		"description": "As [name] chucks the piece of gum in their mouth, their spirit escapes their body. Finally free from being trapped in flesh.",
+		"bonus": 2,
+		"emoji_id": "896610161655943228"
+	}, {
+		"id": "047",
+		"name": "Grape Soda Gum",
+		"type": "Gums",
+		"emoji": "<:047_grapesodagum:896610161647550525>",
+		"description": "As [name] chucks the piece of gum in their mouth... they spit it out. Grape Soda isn't really that good.",
+		"bonus": 1,
+		"emoji_id": "896610161647550525"
+	}, {
+		"id": "048",
+		"name": "Villianous Gum",
+		"type": "Gums",
+		"emoji": "<:048_villianousgum:896610161253290014>",
+		"description": "As [name] chucks the piece of gum in their mouth, the world becomes a comic book. They are now a villian of this world.",
+		"bonus": 2,
+		"emoji_id": "896610161253290014"
+	}, {
+		"id": "049",
+		"name": "Victory Gum",
+		"type": "Gums",
+		"emoji": "<:049_victorygum:896610161265885225>",
+		"description": "As [name] chucks the piece of gum in their mouth, after all these years... they won the battle.",
+		"bonus": 0,
+		"emoji_id": "896610161265885225"
+	}, {
+		"id": "050",
+		"name": "Swamp Gum",
+		"type": "Gums",
+		"emoji": "<:050_swampgum:896610161668542525>",
+		"description": "As [name] chucks the piece of gum in their mouth, mud leaks out of their mouth endlessly. Luckily they can still breathe.",
+		"bonus": 1,
+		"emoji_id": "896610161668542525"
+	}, {
+		"id": "051",
+		"name": "Milk Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:051_MilkChocolateSwagBar:900566738117206036>",
+		"description": "Swag.",
+		"bonus": 0,
+		"emoji_id": "900566738117206036"
+	}, {
+		"id": "052",
+		"name": "Caramel Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:052_CaramelChocolateSwagBar:900566738247249920>",
+		"description": "Swag.",
+		"bonus": 3,
+		"emoji_id": "900566738247249920"
+	}, {
+		"id": "053",
+		"name": "Bitter Sweet Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:053_BitterSweetChocolateSwagBar:900566738184310884>",
+		"description": "Swag.",
+		"bonus": 2,
+		"emoji_id": "900566738184310884"
+	}, {
+		"id": "054",
+		"name": "Dark Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:054_DarkChocolateSwagBar:900566738259836948>",
+		"description": "Swag.",
+		"bonus": 4,
+		"emoji_id": "900566738259836948"
+	}, {
+		"id": "055",
+		"name": "White Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:055_WhiteChocolateSwagBar:900566737970397205>",
+		"description": "Swag.",
+		"bonus": 0,
+		"emoji_id": "900566737970397205"
+	}, {
+		"id": "056",
+		"name": "Nutty Milk Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:056_NuttyMilkChocolateSwagBar:900567369787785216>",
+		"description": "Swag.",
+		"bonus": 2,
+		"emoji_id": "900567369787785216"
+	}, {
+		"id": "057",
+		"name": "Nutty CaramelChocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:057_NuttyCaramelChocolateSwagBar:900567369808756816>",
+		"description": "Swag.",
+		"bonus": 3,
+		"emoji_id": "900567369808756816"
+	}, {
+		"id": "058",
+		"name": "Nutty BS Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:058_NuttyBSChocolateSwagBar:900567369901027418>",
+		"description": "Swag.",
+		"bonus": 1,
+		"emoji_id": "900567369901027418"
+	}, {
+		"id": "059",
+		"name": "Nutty Dark Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:059_NuttyDarkChocolateSwagBar:900567369913618502>",
+		"description": "Swag.",
+		"bonus": 1,
+		"emoji_id": "900567369913618502"
+	}, {
+		"id": "060",
+		"name": "Nutty White Chocolate Swag Bar",
+		"type": "Swag",
+		"emoji": "<:060_NuttyWhiteChocolateSwagBar:900567369968156682>",
+		"description": "Swag.",
+		"bonus": 5,
+		"emoji_id": "900567369968156682"
+	}, {
+		"id": "061",
+		"name": "Ocean Chewy",
+		"type": "Chewy",
+		"emoji": "<:061_OceanChewy:900567897447997490>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like clean and filtered cold water with a hint of blueberry.",
+		"bonus": 2,
+		"emoji_id": "900567897447997490"
+	}, {
+		"id": "062",
+		"name": "Cloud Chewy",
+		"type": "Chewy",
+		"emoji": "<:062_CloudChewy:900567897326375034>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like fluffy pillows with a hint of marshmellow and sugar.",
+		"bonus": 0,
+		"emoji_id": "900567897326375034"
+	}, {
+		"id": "063",
+		"name": "Sun Chewy",
+		"type": "Chewy",
+		"emoji": "<:063_SunChewy:900567898035204177>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like the spicy sun with a hint of lemon.",
+		"bonus": 1,
+		"emoji_id": "900567898035204177"
+	}, {
+		"id": "064",
+		"name": "Grape Chewy",
+		"type": "Chewy",
+		"emoji": "<:064_GrapeChewy:900567897729036388>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like grapes with a hint of grapes and a dash of grapes. Grapes.",
+		"bonus": 1,
+		"emoji_id": "900567897729036388"
+	}, {
+		"id": "065",
+		"name": "Thoughtful Chewy",
+		"type": "Chewy",
+		"emoji": "<:065_ThoughtfulChewy:900567897657712690>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like big brain juice with a hint of watermelon.",
+		"bonus": 3,
+		"emoji_id": "900567897657712690"
+	}, {
+		"id": "066",
+		"name": "Lava Lamp Chewy",
+		"type": "Chewy",
+		"emoji": "<:066_LavaLampChewy:900567897661898825>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like charcoal and smoke with a hint of hot sauce.",
+		"bonus": 2,
+		"emoji_id": "900567897661898825"
+	}, {
+		"id": "067",
+		"name": "Moss Chewy",
+		"type": "Chewy",
+		"emoji": "<:067_MossChewy:900567897737396224>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like grass and vegan food with a hint of lime.",
+		"bonus": 3,
+		"emoji_id": "900567897737396224"
+	}, {
+		"id": "068",
+		"name": "Calm Chewy",
+		"type": "Chewy",
+		"emoji": "<:068_CalmChewy:900567897666121811>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like a good sleep with a hint of cherry.",
+		"bonus": 0,
+		"emoji_id": "900567897666121811"
+	}, {
+		"id": "069",
+		"name": "Orange Chewy",
+		"type": "Chewy",
+		"emoji": "<:069_OrangeChewy:900567897749987398>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like orange soda. So filly.. so filling.",
+		"bonus": 4,
+		"emoji_id": "900567897749987398"
+	}, {
+		"id": "070",
+		"name": "Fizzy Chewy",
+		"type": "Chewy",
+		"emoji": "<:070_FizzyChewy:900567897951305778>",
+		"description": "As [name] chucks the chewy in their mouth, each chew tastes like their favorite soda with a hint of vanilla.",
+		"bonus": 5,
+		"emoji_id": "900567897951305778"
+	}, {
+		"id": "071",
+		"name": "Midnight Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:071_MidnightSugarCane:900567945648943205>",
+		"description": "As [name] takes a suck on the cane, everything becomes dark but calm. Like everything is finally okay.",
+		"bonus": 2,
+		"emoji_id": "900567945648943205"
+	}, {
+		"id": "072",
+		"name": "Sunshine Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:072_SunshineSugarCane:900567945632157736>",
+		"description": "As [name] takes a suck on the cane, they become one with the light. Who needs the sun with this hallower!?",
+		"bonus": 2,
+		"emoji_id": "900567945632157736"
+	}, {
+		"id": "073",
+		"name": "Vegan Friendly Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:073_VeganFriendlySugarCane:900567945485357127>",
+		"description": "As [name] takes a suck on the cane, they appreciate that it is vegan friendly. Very grassy.",
+		"bonus": 0,
+		"emoji_id": "900567945485357127"
+	}, {
+		"id": "074",
+		"name": "Bloody Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:074_BloodySugarCane:900567945716039721>",
+		"description": "As [name] takes a suck on the cane, the blood in their veins rushes and boils. Anyone a doctor?",
+		"bonus": 5,
+		"emoji_id": "900567945716039721"
+	}, {
+		"id": "075",
+		"name": "Vanilla Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:075_VanillaSugarCane:900567945795735552>",
+		"description": "As [name] takes a suck on the cane, the sweetness wraps around their tongue and enriches their experience.",
+		"bonus": 3,
+		"emoji_id": "900567945795735552"
+	}, {
+		"id": "076",
+		"name": "Bumblebee Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:076_BumblebeeSugarCane:900567945841901568>",
+		"description": "As [name] takes a suck on the cane, they cane sticks to their tongue like rich rich honey.",
+		"bonus": 3,
+		"emoji_id": "900567945841901568"
+	}, {
+		"id": "077",
+		"name": "Lime Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:077_LimeSugarCane:900567945778970686>",
+		"description": "As [name] takes a suck on the cane, their tongue melts from the acid. Ouch.",
+		"bonus": 1,
+		"emoji_id": "900567945778970686"
+	}, {
+		"id": "078",
+		"name": "Limb Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:078_LimbSugarCane:900567946055807006>",
+		"description": "As [name] takes a suck on the cane, their limbs double joint and twist in weird places. Somehow it doesn't hurt them.",
+		"bonus": 0,
+		"emoji_id": "900567946055807006"
+	}, {
+		"id": "079",
+		"name": "Happy Time Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:079_HappytimeSugarCane:900567945942540338>",
+		"description": "As [name] takes a suck on the cane, they can't stop smiling. It is becoming really concerning.",
+		"bonus": 4,
+		"emoji_id": "900567945942540338"
+	}, {
+		"id": "080",
+		"name": "Quiet Flow Sugar Cane",
+		"type": "Cane",
+		"emoji": "<:080_QuietFlowSugarCane:900567945967697960>",
+		"description": "As [name] takes a suck on the cane, everything becomes quiet. ... ... ...",
+		"bonus": 1,
+		"emoji_id": "900567945967697960"
+	}, {
+		"id": "081",
+		"name": "Orange Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:081_OrangeGummySpider:900568304526168064>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900568304526168064"
+	}, {
+		"id": "082",
+		"name": "Banana Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:082_BananaGummySpider:900568304740073582>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900568304740073582"
+	}, {
+		"id": "083",
+		"name": "Cyan Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:083_CyanGummySpider:900568304559747072>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900568304559747072"
+	}, {
+		"id": "084",
+		"name": "Passion Fruit Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:084_PassionFruitGummySpider:900568304345817139>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900568304345817139"
+	}, {
+		"id": "085",
+		"name": "Grape Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:085_GrapeGummySpider:900568305092403240>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900568305092403240"
+	}, {
+		"id": "086",
+		"name": "Lime Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:086_LimeGummySpider:900568304962396170>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900568304962396170"
+	}, {
+		"id": "087",
+		"name": "Blueberry Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:087_BlueberryGummySpider:900568305390207006>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900568305390207006"
+	}, {
+		"id": "088",
+		"name": "Strawberry Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:088_StrawberryGummySpider:900568305402777630>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900568305402777630"
+	}, {
+		"id": "089",
+		"name": "Super Sour Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:089_SuperSourGummySpider:900568305352466462>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900568305352466462"
+	}, {
+		"id": "090",
+		"name": "Moonlight Gummy Spider",
+		"type": "Gummy",
+		"emoji": "<:090_MoonlightGummySpider:900568304199016460>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900568304199016460"
+	}, {
+		"id": "091",
+		"name": "Lemon Lime Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:091_LemonLimeGummySkull:900568343789051915>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900568343789051915"
+	}, {
+		"id": "092",
+		"name": "Pink Paradise Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:092_PinkParadiseGummySkull:900568343415754783>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900568343415754783"
+	}, {
+		"id": "093",
+		"name": "Midnight Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:093_MidnightGummySkull:900568344078454784>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900568344078454784"
+	}, {
+		"id": "094",
+		"name": "Marshmellow Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:094_MarshmellowGummySkull:900568343893934121>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900568343893934121"
+	}, {
+		"id": "095",
+		"name": "Super Sour Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:095_SuperSourGummySkull:900568343940042762>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900568343940042762"
+	}, {
+		"id": "096",
+		"name": "Tropical Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:096_TropicalGummySkull:900582492476694578>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900582492476694578"
+	}, {
+		"id": "097",
+		"name": "Bonezone Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:097_BonezoneGummySkull:900582492506042428> ",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900582492506042428>"
+	}, {
+		"id": "098",
+		"name": "Smoothie Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:098_SmoothieGummySkull:900582492531220480>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900582492531220480"
+	}, {
+		"id": "099",
+		"name": "Watermelon Splash Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:099_WatermelonSplashGummySkull:900582492573138944>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900582492573138944"
+	}, {
+		"id": "100",
+		"name": "Spooky Gummy Skull",
+		"type": "Gummy",
+		"emoji": "<:100_SpookyGummySkull:900582492728352818>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900582492728352818"
+	}, {
+		"id": "101",
+		"name": "Strawberry Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:101_StrawberryGummyBone:900568968480321546>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900568968480321546"
+	}, {
+		"id": "102",
+		"name": "Bone Bone Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:102_BoneBoneGummyBone:900568968492875776>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900568968492875776"
+	}, {
+		"id": "103",
+		"name": "Blueberry Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:103_BlueberryGummyBone:900568968270581761>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900568968270581761"
+	}, {
+		"id": "104",
+		"name": "Watermelon Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:104_WatermelonGummyBone:900568968522260500>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900568968522260500"
+	}, {
+		"id": "105",
+		"name": "Soda Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:105_SodaGummyBone:900568968534827048>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900568968534827048"
+	}, {
+		"id": "106",
+		"name": "Banana Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:106_BananaGummyBone:900568968572583966>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900568968572583966"
+	}, {
+		"id": "107",
+		"name": "Cherry Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:107_CherryGummyBone:900568968316739585>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900568968316739585"
+	}, {
+		"id": "108",
+		"name": "Grape Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:108_GrapeGummyBone:900568968480292896>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900568968480292896"
+	}, {
+		"id": "109",
+		"name": "Nightmare Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:109_NightmareGummyBone:900568968266412043>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900568968266412043"
+	}, {
+		"id": "110",
+		"name": "Lime Gummy Bone",
+		"type": "Gummy",
+		"emoji": "<:110_LimeGummyBone:900568968736169994>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900568968736169994"
+	}, {
+		"id": "111",
+		"name": "Grape Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:111_GrapeGummyWorm:900569035136204820>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900569035136204820"
+	}, {
+		"id": "112",
+		"name": "Blueberry Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:112_BlueberryGummyWorm:900569035454955570>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569035454955570"
+	}, {
+		"id": "113",
+		"name": "Orange Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:113_OrangeGummyWorm:900569035333333022>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569035333333022"
+	}, {
+		"id": "114",
+		"name": "Lime Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:114_LimeGummyWorm:900569035383640084>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569035383640084"
+	}, {
+		"id": "115",
+		"name": "Cyan Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:115_CyanGummyWorm:900569035375267880>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569035375267880"
+	}, {
+		"id": "116",
+		"name": "Clay Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:116_ClayGummyWorm:900569035320721418>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900569035320721418"
+	}, {
+		"id": "117",
+		"name": "Strawberry Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:117_StrawberryGummyWorm:900569034989375529>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900569034989375529"
+	}, {
+		"id": "118",
+		"name": "Cherry Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:118_CherryGummyWorm:900569035404611585>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900569035404611585"
+	}, {
+		"id": "119",
+		"name": "Banana Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:119_BananaGummyWorm:900569035526242334>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900569035526242334"
+	}, {
+		"id": "120",
+		"name": "Watermelon Gummy Worm",
+		"type": "Gummy",
+		"emoji": "<:120_WatermelonGummyWorm:900569035597561908>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569035597561908"
+	}, {
+		"id": "121",
+		"name": "Candy Corn",
+		"type": "Corn",
+		"emoji": "<:121_CandyCorn:900569233950408735>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569233950408735"
+	}, {
+		"id": "122",
+		"name": "Deep Sea Candy Corn",
+		"type": "Corn",
+		"emoji": "<:122_DeepSeaCandyCorn:900569233879076877>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569233879076877"
+	}, {
+		"id": "123",
+		"name": "Lemon Lime Candy Corn",
+		"type": "Corn",
+		"emoji": "<:123_LemonLimeCandyCorn:900569234134941737>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900569234134941737"
+	}, {
+		"id": "124",
+		"name": "Strawberry Candy Corn",
+		"type": "Corn",
+		"emoji": "<:124_StrawberryCandyCorn:900569234269147186>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900569234269147186"
+	}, {
+		"id": "125",
+		"name": "Chocolate Candy Corn",
+		"type": "Corn",
+		"emoji": "<:125_ChocolateCandyCorn:900569234206228560>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569234206228560"
+	}, {
+		"id": "126",
+		"name": "Soft Dream Candy Corn",
+		"type": "Corn",
+		"emoji": "<:126_SoftDreamCandyCorn:900569234290122772>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900569234290122772"
+	}, {
+		"id": "127",
+		"name": "Spooky Candy Corn",
+		"type": "Corn",
+		"emoji": "<:127_SpookyCandyCorn:900569234432741457>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569234432741457"
+	}, {
+		"id": "128",
+		"name": "Grape Supreme Candy Corn",
+		"type": "Corn",
+		"emoji": "<:128_GrapeSupremeCandyCorn:900569234445332550>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900569234445332550"
+	}, {
+		"id": "129",
+		"name": "Blood Sugar Candy Corn",
+		"type": "Corn",
+		"emoji": "<:129_BloodSugarCandyCorn:900569234554384474>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900569234554384474"
+	}, {
+		"id": "130",
+		"name": "Caramel Candy Corn",
+		"type": "Corn",
+		"emoji": "<:130_CaramelCandyCorn:900569234340470874>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900569234340470874"
+	}, {
+		"id": "131",
+		"name": "Grape Soda",
+		"type": "Soda",
+		"emoji": "<:131_GrapeSoda:900569780115873932>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569780115873932"
+	}, {
+		"id": "132",
+		"name": "Cherry Soda",
+		"type": "Soda",
+		"emoji": "<:132_CherrySoda:900569780036173855>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900569780036173855"
+	}, {
+		"id": "133",
+		"name": "Vanilla Soda",
+		"type": "Soda",
+		"emoji": "<:133_VanillaSoda:900569780019396689>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900569780019396689"
+	}, {
+		"id": "134",
+		"name": "Citrus Soda",
+		"type": "Soda",
+		"emoji": "<:134_CitrusSoda:900569780069744710>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900569780069744710"
+	}, {
+		"id": "135",
+		"name": "Orange Soda",
+		"type": "Soda",
+		"emoji": "<:135_OrangeSoda:900569780136849448>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900569780136849448"
+	}, {
+		"id": "136",
+		"name": "Banana Soda",
+		"type": "Soda",
+		"emoji": "<:136_BananaSoda:900569780149444698>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900569780149444698"
+	}, {
+		"id": "137",
+		"name": "Lemon Lime Soda",
+		"type": "Soda",
+		"emoji": "<:137_LemonLimeSoda:900569780090728469>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900569780090728469"
+	}, {
+		"id": "138",
+		"name": "Cream Soda",
+		"type": "Soda",
+		"emoji": "<:138_CreamSoda:900569780195586078>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569780195586078"
+	}, {
+		"id": "139",
+		"name": "Watermelon Soda",
+		"type": "Soda",
+		"emoji": "<:139_WatermelonSoda:900569780329799690>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569780329799690"
+	}, {
+		"id": "140",
+		"name": "Blueberry Soda",
+		"type": "Soda",
+		"emoji": "<:140_BlueberrySoda:900569780317200394>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569780317200394"
+	}, {
+		"id": "141",
+		"name": "Banana",
+		"type": "Banana",
+		"emoji": "<:141_Banana:900569822709051392>",
+		"description": "",
+		"bonus": 5,
+		"emoji_id": "900569822709051392"
+	}, {
+		"id": "142",
+		"name": "Blueberry Banana",
+		"type": "Banana",
+		"emoji": "<:142_BlueberryBanana:900569822650327050>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569822650327050"
+	}, {
+		"id": "143",
+		"name": "Sweet Banana",
+		"type": "Banana",
+		"emoji": "<:143_SweetBanana:900569822981656576>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900569822981656576"
+	}, {
+		"id": "144",
+		"name": "Fizzy Banana",
+		"type": "Banana",
+		"emoji": "<:144_FizzyBanana:900569823040385104>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900569823040385104"
+	}, {
+		"id": "145",
+		"name": "Strawberry Banana",
+		"type": "Banana",
+		"emoji": "<:145_StrawberryBanana:900569822847463514>",
+		"description": "",
+		"bonus": 2,
+		"emoji_id": "900569822847463514"
+	}, {
+		"id": "146",
+		"name": "Grape Banana",
+		"type": "Banana",
+		"emoji": "<:146_GrapeBanana:900569823128453180>",
+		"description": "",
+		"bonus": 0,
+		"emoji_id": "900569823128453180"
+	}, {
+		"id": "147",
+		"name": "Orange Banana",
+		"type": "Banana",
+		"emoji": "<:147_OrangeBanana:900569823027822642>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569823027822642"
+	}, {
+		"id": "148",
+		"name": "Cherry Banana",
+		"type": "Banana",
+		"emoji": "<:148_CherryBanana:900569822939713576>",
+		"description": "",
+		"bonus": 4,
+		"emoji_id": "900569822939713576"
+	}, {
+		"id": "149",
+		"name": "Watermelon Banana",
+		"type": "Banana",
+		"emoji": "<:149_WatermelonBanana:900569822683885579>",
+		"description": "",
+		"bonus": 3,
+		"emoji_id": "900569822683885579"
+	}, {
+		"id": "150",
+		"name": "Bone Banana",
+		"type": "Banana",
+		"emoji": "<:150_BoneBanana:900569823052988447>",
+		"description": "",
+		"bonus": 1,
+		"emoji_id": "900569823052988447"
+	}, {
+		"id": "151",
+		"name": "Golden Wrap",
+		"type": "Golden",
+		"emoji": "<:151_GoldenWrap:1028340279373205544>",
+		"description": "",
+		"bonus": 6,
+		"emoji_id": "1028340279373205544"
+	}, {
+		"id": "152",
+		"name": "Golden Worm",
+		"type": "Golden",
+		"emoji": "<:152_GoldenWorm:1028340278416900166>",
+		"description": "",
+		"bonus": 7,
+		"emoji_id": "1028340278416900166"
+	}, {
+		"id": "153",
+		"name": "Golden Swirl",
+		"type": "Golden",
+		"emoji": "<:153_GoldenSwirl:1028340277427052544>",
+		"description": "",
+		"bonus": 8,
+		"emoji_id": "1028340277427052544"
+	}, {
+		"id": "154",
+		"name": "Golden Sucker",
+		"type": "Golden",
+		"emoji": "<:154_GoldenSucker:1028340276537864343>",
+		"description": "",
+		"bonus": 9,
+		"emoji_id": "1028340276537864343"
+	}, {
+		"id": "155",
+		"name": "Golden Spider",
+		"type": "Golden",
+		"emoji": "<:155_GoldenSpider:1028340275636092998>",
+		"description": "",
+		"bonus": 10,
+		"emoji_id": "1028340275636092998"
+	}, {
+		"id": "156",
+		"name": "Golden Soda",
+		"type": "Golden",
+		"emoji": "<:156_GoldenSoda:1028340274738511934>",
+		"description": "",
+		"bonus": 11,
+		"emoji_id": "1028340274738511934"
+	}, {
+		"id": "157",
+		"name": "Golden Skull",
+		"type": "Golden",
+		"emoji": "<:157_GoldenSkull:1028340273895440554>",
+		"description": "",
+		"bonus": 6,
+		"emoji_id": "1028340273895440554"
+	}, {
+		"id": "158",
+		"name": "Golden Jawbreaker",
+		"type": "Golden",
+		"emoji": "<:158_GoldenJawbreaker:1028340272960110632>",
+		"description": "",
+		"bonus": 7,
+		"emoji_id": "1028340272960110632"
+	}, {
+		"id": "159",
+		"name": "Golden Gum",
+		"type": "Golden",
+		"emoji": "<:159_GoldenGum:1028340272142229555>",
+		"description": "",
+		"bonus": 8,
+		"emoji_id": "1028340272142229555"
+	}, {
+		"id": "160",
+		"name": "Golden Swag Bar",
+		"type": "Golden",
+		"emoji": "<:160_Goldenbar:1028340271219482664>",
+		"description": "",
+		"bonus": 11,
+		"emoji_id": "1028340271219482664"
+	}, {
+		"id": "161",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "162",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "163",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "164",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "165",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "166",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "167",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "168",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "169",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "170",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "171",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "172",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "173",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "174",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "175",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "176",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "177",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "178",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "179",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "180",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "181",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "182",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "183",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "184",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "185",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "186",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "187",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "188",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "189",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "190",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "191",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "192",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "193",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "194",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "195",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "196",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "197",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}, {
+		"id": "198",
+		"name": "",
+		"type": "",
+		"emoji": "",
+		"description": "",
+		"emoji_id": ""
+	}],
+	"creatures": [{
+		"name": "Blair the Witch",
+		"area": "The Abandoned House of Magic",
+		"description": ["They look through the books in the endless library and find candy wedged between the pages on some of them!", "Inside the dragon's chambers, they find a large pile of candy and managed to sneak out with it without waking up the dragon.", "For some odd reason, they climb the house to the roof. Once there, they find candy floating and hovering. Carefully, they grab the candy and climb down."],
+		"candies": ["017", "004", "005", "021", "043", "069", "072"]
+	}, {
+		"name": "Dexter the Werewolf",
+		"area": "The Woods of the Howling",
+		"description": ["They managed to find candy next to a suspicious cave. They decided that the candy is worth the risk and stubbornly steals it."],
+		"candies": ["006", "012", "030", "038", "045", "068", "071"]
+	}, {
+		"name": "Frank the Living",
+		"area": "The Mansion of the Living",
+		"description": ["They see a colossal giant walk before they and hand they some candy!"],
+		"candies": ["013", "020", "028", "039", "046", "066", "067"]
+	}, {
+		"name": "Crystal the Vampire",
+		"area": "The Cathedral of Blood",
+		"description": ["Inside a large jar of blood, you spot candy inside of it. Because of their love of candy, they dive into the blood and take the candy."],
+		"candies": ["003", "011", "023", "025", "047", "048", "070"]
+	}, {
+		"name": "Tom the Zombie",
+		"area": "The Graveyard of Unfortunate",
+		"description": ["Little undead candies that don't look safe to eat spawn beside the feet of them. While no one was looking, they grab the candy and put it in a glass jar."],
+		"candies": ["016", "014", "026", "050", "049", "065"]
+	}, {
+		"name": "Swag",
+		"area": "The Swag Dimension",
+		"description": ["You grabbed one of the many floating candies in the swag dimension.", "Swag.", "Swaggolicious Flavor is now in your grasp."],
+		"candies": ["051", "052", "053", "054", "055", "056", "057", "058", "059", "060"]
+	}, {
+		"name": "Bigfoot",
+		"area": "",
+		"description": [],
+		"candies": []
+	}, {
+		"name": "Chad the Sasquatch",
+		"area": "",
+		"description": [],
+		"candies": []
+	}, {
+		"name": "George the Clown",
+		"area": "",
+		"description": [],
+		"candies": []
+	}, {
+		"name": "Scales the Dragon",
+		"area": "",
+		"description": [],
+		"candies": []
+	}, {
+		"name": "Circuit the Robot",
+		"area": "",
+		"description": [],
+		"candies": []
+	}, {
+		"name": "Equation the Alien",
+		"area": "",
+		"description": [],
+		"candies": []
+	}, {
+		"name": "Dry Bones the Skeleton",
+		"area": "The Coffin of the King",
+		"description": ["THeY FiNd kAnDy iNsIdE Of BONES!", "Did you know that bOnEs aRe kAnDy?!", "Dry Bones, the once ruler of skeletons, gives them bOnEs fIlLeD WiTh kAnDy!"],
+		"candies": ["001", "009", "019", "024", "031", "040", "042"]
+	}, {
+		"name": "Boo the Ghost",
+		"area": "The Church of the Watchers",
+		"description": ["BOO! They got candy!"],
+		"candies": ["007", "008", "015", "029", "032", "033", "061"]
+	}, {
+		"name": "Abraham the Headless Horseman",
+		"area": "The Road of Haunting Clops",
+		"description": ["Headless Candy!"],
+		"candies": ["002", "016", "018", "027", "034", "035", "062"]
+	}, {
+		"name": "Glob the Blob",
+		"area": "The Swamp of Stuffing",
+		"description": ["They see candy inside a happy blob. They decide into their best interest to stick their arm inside the blob to get the candy. The blob feel violated."],
+		"candies": ["017", "022", "036", "037", "044", "063", "064"]
+	}]
+}
